@@ -23,6 +23,6 @@ This utility mod aims to fix that, by allowing you to choose which mod you’d l
   
 + Lewd Anna scene*
 + BangOk*
-</details>
-
+<br/>
 *GitHub exclusive mods
+</details>
