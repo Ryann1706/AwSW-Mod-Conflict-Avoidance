@@ -6,7 +6,7 @@ This utility mod aims to fix that, by allowing you to choose which mod you’d l
 
 <details>
 <summary>This mod is currently compatible with:</summary>
-  
+<br/>
 <summary>Adine’s good ending:</summary>
   
 + Adine Romantic ending
