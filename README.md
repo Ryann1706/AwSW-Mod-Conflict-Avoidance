@@ -12,16 +12,14 @@ This mod is currently compatible with:
 + Adine Romantic ending
 + Adine Sopping*
 + Freefall
-</details>
   
 <summary>Anna’s good ending</summary>
   
 + Anna and Adine’s better ending*
 + Not-So-Tragic Hero
 + A Trip to the Woods
-</details>
   
- <summary>Anna’s good ending</summary>
+ <summary>Anna’s romance scene</summary>
   
 + Lewd Anna scene*
 + BangOk*
