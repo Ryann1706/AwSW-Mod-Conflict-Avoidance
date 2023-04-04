@@ -5,7 +5,7 @@ With there being more and more mods being made for AwSW, and only so many places
 This utility mod aims to fix that, by allowing you to choose which mod you’d like to play, instead of it automatically playing whichever happens to be first.
 
 <details>
-This mod is currently compatible with:
+<summary>This mod is currently compatible with:</summary>
 <summary>Adine’s good ending:</summary>
   
 + Adine Romantic ending
