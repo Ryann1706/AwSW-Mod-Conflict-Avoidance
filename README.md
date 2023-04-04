@@ -4,22 +4,21 @@ With there being more and more mods being made for AwSW, and only so many places
 
 This utility mod aims to fix that, by allowing you to choose which mod you’d like to play, instead of it automatically playing whichever happens to be first.
 
-
-This mod is currently compatible with:
 <details>
-<summary>Adine’s good ending</summary>
+This mod is currently compatible with:
+<summary>Adine’s good ending:</summary>
   
 + Adine Romantic ending
 + Adine Sopping*
 + Freefall
   
-<summary>Anna’s good ending</summary>
+<summary>Anna’s good ending:</summary>
   
 + Anna and Adine’s better ending*
 + Not-So-Tragic Hero
 + A Trip to the Woods
   
- <summary>Anna’s romance scene</summary>
+ <summary>Anna’s romance scene:</summary>
   
 + Lewd Anna scene*
 + BangOk*
