@@ -15,6 +15,8 @@ if renpy.has_label("adine_romance_end"):
     $ ryann_mca_adine_good_endings += 1
 if renpy.has_label("adine_shopping"):
     $ ryann_mca_adine_good_endings += 1
+if renpy.has_label("adine_flight_of_love_start"):
+    $ ryann_mca_adine_good_endings += 1
 
 if ryann_mca_adine_good_endings > 1:
     stop music fadeout 2.0
@@ -40,6 +42,12 @@ if ryann_mca_adine_good_endings > 1:
             scene black with dissolveslow
             $ renpy.pause (3.0)
             jump adine_shopping
+
+        "Adine's Flight Of Love" if renpy.has_label("adine_flight_of_love_start"):
+            s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
+            scene black with dissolveslow
+            $ renpy.pause (3.0)
+            jump adine_flight_of_love_start
 
 else:
     pass
