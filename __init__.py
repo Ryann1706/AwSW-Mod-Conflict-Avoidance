@@ -6,9 +6,9 @@ import jz_magmalink as ml
 @loadable_mod
 class AWSWMod(Mod):
     name = "Mod Conflict Avoidance"
-    version = "0.0"
+    version = "1.0"
     author = "Ryann1706"
-    dependencies = ["MagmaLink", "?The Freefall", "?Adine Romance Ending", "?adine_holla_dolla", "?Not-so-Tragic Hero", "?Anna's better ending", "?BangOk", "?Lewd Anna Scene", "?A Trip to the Woods"]
+    dependencies = ["MagmaLink", "?The Freefall", "?Adine Romance Ending", "?adine_holla_dolla", "?Not-so-Tragic Hero", "?Anna's better ending", "?BangOk", "?Lewd Anna Scene", "?A Trip to the Woods", "?Adine's Flight of Love"]
 
     def mod_load(self):
         ml.find_label("adinegoodending") \
