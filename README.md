@@ -14,6 +14,7 @@ This utility mod aims to fix that, by allowing you to choose which mod you’d l
 + Adine Romantic ending
 + Adine Sopping*
 + Freefall
++ Adine's Flight of Love
   
 <summary>Anna’s good ending:</summary>
   
