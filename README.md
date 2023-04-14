@@ -6,15 +6,17 @@ With there being more and more mods being made for AwSW, and only so many places
 
 This utility mod aims to fix that, by allowing you to choose which mod you’d like to play, instead of it automatically playing whichever happens to be first.
 
+Just install this mod, and in a situation where multiple mods could overwrite each other (Like Adine or Anna's good endings), a menu will appear, and let you choose whichever mod you'd prefer.
+
 <details>
 <summary>This mod is currently compatible with:</summary>
 <br/>
 <summary>Adine’s good ending:</summary>
-  
-+ Adine Romantic ending
+
 + Adine Sopping*
 + Freefall
-+ Adine's Flight of Love
++ Adine Romantic ending **or** Adine's Flight of Love <br>
+ (Unfortunately, due to coding issues outside of my control, these two mods are completely incompatible with each other.)
   
 <summary>Anna’s good ending:</summary>
   
